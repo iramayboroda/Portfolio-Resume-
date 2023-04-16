@@ -2,4 +2,5 @@
 - HTML 5
 - CSS 3
 - JQuery
-- Can you view [My website](https://iramayboroda.github.io/Portfolio-Resume-/)
+- 
+- You can view [my portfolio](https://iramayboroda.github.io/Portfolio-Resume-/)
